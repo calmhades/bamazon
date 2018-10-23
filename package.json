@@ -1,0 +1,17 @@
+{
+  "name": "10-greatbay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greatBay.js",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
